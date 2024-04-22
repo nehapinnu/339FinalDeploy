@@ -7,7 +7,7 @@ function Header() {
     <header>
       <a href="home.html" className="logo">
         <img
-          src="../../images/background/dino.png"
+          src="images/background/dino.png"
           alt="dino"
           className="logoImage"
         />
